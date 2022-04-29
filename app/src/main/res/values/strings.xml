@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">English Pronounce</string>
+    <string name="not_supported">not supporteeeed</string>
+
+    <string name="phrase1" translatable="false">Somebody that never made mistakes never did something new.</string>
+    <string name="phrase2" translatable="false">The book is on the table.</string>
+
+    <string name="question18" translatable="false">Do you speak English?</string>
+    <string name="hint18" translatable="false">Yes, but I am still learning!</string>
+    <string name="question19" translatable="false">Can you play football?</string>
+    <string name="hint19" translatable="false">No, I play volleyball.</string>
+    <string name="question20" translatable="false">How are you?</string>
+    <string name="hint20" translatable="false">I am fine, thanks!</string>
+    <string name="question21" translatable="false">Why do you learn English?</string>
+    <string name="hint21" translatable="false">To get a better job.</string>
+    <string name="question22" translatable="false">What is your Job?</string>
+    <string name="hint22" translatable="false">I am a salesman.</string>
+    <string name="question23" translatable="false">Can you dance well?</string>
+    <string name="hint23" translatable="false">Yes, I can dance</string>
+    <string name="question24" translatable="false">Can you describe yourself in three words?</string>
+    <string name="hint24" translatable="false">I am small, strong and young.</string>
+    <string name="question25" translatable="false">How many people are in your family?</string>
+    <string name="hint25" translatable="false">Three people, me, my wife and my son.</string>
+    <string name="question26" translatable="false">What do you do in your free time?</string>
+    <string name="hint26" translatable="false">I like reading and relaxing at home.</string>
+</resources>

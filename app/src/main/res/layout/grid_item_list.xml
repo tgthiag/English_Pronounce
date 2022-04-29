@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="3dp"
+    style="@style/ContainerBlack">
+<!--    <CheckBox-->
+<!--        android:layout_width="30dp"-->
+<!--        android:layout_height="20dp"-->
+<!--        android:layout_gravity="center"-->
+<!--/>-->
+    <TextView
+        android:id="@+id/tx_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="Text"
+        android:textSize="22sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:id="@+id/tx_transl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Translation"
+        android:textColor="@color/whiteTr"
+        android:layout_gravity="center"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        />
+
+
+
+
+</LinearLayout>
