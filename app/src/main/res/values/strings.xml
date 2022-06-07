@@ -17,8 +17,7 @@
     <string name="hint22" translatable="false">I am a salesman.</string>
     <string name="question23" translatable="false">Can you dance well?</string>
     <string name="hint23" translatable="false">Yes, I can dance</string>
-    <string name="question24" translatable="false">Can you describe yourself in three words?</string>
-    <string name="hint24" translatable="false">I am small, strong and young.</string>
+    <string name="question24" translatable="false">Can you describe yourself in a few words?</string>
     <string name="question25" translatable="false">How many people are in your family?</string>
     <string name="hint25" translatable="false">Three people, me, my wife and my son.</string>
     <string name="question26" translatable="false">What do you do in your free time?</string>
